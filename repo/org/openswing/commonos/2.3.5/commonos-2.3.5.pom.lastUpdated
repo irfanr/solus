@@ -1,0 +1,22 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Jul 26 09:03:17 WIT 2013
+http\://download.eclipse.org/rt/eclipselink/maven.repo/.error=
+http\://spring-roo-repository.springsource.org/release/.lastUpdated=1373807569012
+http\://repository.primefaces.org/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1374804132576
+http\://download.eclipse.org/rt/eclipselink/maven.repo/.lastUpdated=1374804177922
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://openswing.googlecode.com/svn/.error=
+http\://repository.primefaces.org/.lastUpdated=1369110295542
+http\://maven.springframework.org/milestone/.lastUpdated=1373807568372
+http\://maven.springframework.org/milestone/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1374804197671
+http\://repo.maven.apache.org/maven2/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1369110302334
+http\://spring-roo-repository.springsource.org/release/.error=
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1369110299319
+http\://maven.springframework.org/release/.lastUpdated=1373807567653
+https\://openswing.googlecode.com/svn/.lastUpdated=1374804188857
+http\://repo1.maven.org/maven2/.error=
+http\://maven.springframework.org/release/.error=
+https\://maven.java.net/content/repositories/releases/.error=

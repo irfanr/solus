@@ -1,0 +1,22 @@
+COPY system_lookup TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/system_lookup.csv' DELIMITERS ',' CSV;
+--COPY address TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/address.csv' DELIMITERS ',' CSV;
+COPY login_role TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/login_role.csv' DELIMITERS ',' CSV;
+COPY login TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/login.csv' DELIMITERS ',' NULL 'NULL' CSV;
+COPY permission TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/permission.csv' DELIMITERS ',' CSV;
+COPY link TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/link-miles.csv' DELIMITERS ',' CSV;
+COPY menu TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/menu-miles.csv' DELIMITERS ',' CSV;
+COPY country TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/country.csv' DELIMITERS ',' CSV;
+COPY province TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/province.csv' DELIMITERS ',' CSV;
+COPY district TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/district.csv' DELIMITERS ',' CSV;
+COPY sub_district TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/sub_district.csv' DELIMITERS ',' CSV;
+COPY village TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/village.csv' DELIMITERS ',' CSV;
+COPY login_role_permissions TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/login_role_permissions.csv' DELIMITERS ',' CSV;
+COPY menu_login_roles TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/menu_login_roles.csv' DELIMITERS ',' CSV;
+COPY person TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/person.csv' DELIMITERS ',' NULL 'NULL' CSV;
+
+COPY mitra TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/mitra.csv' DELIMITERS ',' NULL 'NULL' CSV;
+COPY koordinator TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/koordinator.csv' DELIMITERS ',' CSV;
+COPY pelatih TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/pelatih.csv' DELIMITERS ',' CSV;
+COPY pelatihan TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/pelatihan.csv' DELIMITERS ',' NULL 'NULL' CSV;
+COPY peserta TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/peserta.csv' DELIMITERS ',' NULL 'NULL' CSV;
+COPY penerima_manfaat TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-jkt/penerima_manfaat.csv' DELIMITERS ',' NULL 'NULL' CSV;

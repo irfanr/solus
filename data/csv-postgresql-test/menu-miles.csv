@@ -1,0 +1,33 @@
+1,t,Root,1,0,1,
+2,t,Beranda,1,0,2,1
+3,f,Buat Data,6,0,3,1
+4,f,Ubah Data,7,0,4,1
+5,t,Pengaturan,8,0,5,1
+6,t,Laporan,9,0,6,1
+7,t,Dashboard,10,0,7,1
+8,t,Bantuan,11,0,8,1
+9,t,Pengaturan User,1,0,9,5
+10,t,Parameter,2,0,10,5
+11,t,MILES Dashboard,1,0,11,7
+12,t,Admin Dashboard,2,0,12,7
+13,t,FAQ,1,0,13,8
+14,t,Manual Penggunaan,2,0,14,8
+15,f,Kode Mitra,1,0,15,10
+16,f,Nama Pelatih,2,0,16,10
+17,t,Pekerjaan,3,0,17,10
+18,t,Pendidikan,4,0,18,10
+19,t,Hubungan,5,0,19,10
+20,t,Posisi,6,0,20,10
+21,f,Data,5,0,21,1
+22,f,Pelatihan,1,0,22,21
+23,f,Peserta,2,0,23,21
+24,f,Pelatih,3,0,24,21
+26,t,Ubah Kata Sandi,12,0,26,1
+27,t,Data Peserta,2,0,27,1
+28,t,Data Pelatihan,3,0,28,1
+29,t,Data Profile,4,0,29,1
+30,t,Pelatih,1,0,30,29
+31,t,Mitra,2,0,31,29
+32,t,Koordinator,3,0,32,29
+33,t,Kebutuhan Sertifikat,1,0,33,6
+34,t,Data Beneficiaries,2,0,34,6

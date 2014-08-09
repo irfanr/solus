@@ -1,0 +1,28 @@
+COPY system_lookup TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/system_lookup.csv' DELIMITERS ',' CSV;
+--COPY address FROM '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/address.csv' DELIMITERS ',' CSV;
+COPY login_role TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/login_role.csv' DELIMITERS ',' CSV;
+COPY login TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/login.csv' DELIMITERS ',' NULL 'NULL' CSV;
+COPY permission TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/permission.csv' DELIMITERS ',' CSV;
+COPY link TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/link-miles.csv' DELIMITERS ',' CSV;
+COPY menu TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/menu-miles.csv' DELIMITERS ',' CSV;
+--COPY country TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql/country.csv' DELIMITERS ',' CSV;
+--COPY province TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql/province.csv' DELIMITERS ',' CSV;
+--COPY district TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql/district.REAL.csv' DELIMITERS ',' CSV;
+--COPY sub_district TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql/sub_district.REAL.csv' DELIMITERS ',' CSV;
+--COPY village TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql/village.REAL.csv' DELIMITERS ',' CSV;
+--COPY login_links FROM '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/login_links.csv' DELIMITERS ',' CSV;
+--COPY login_login_roles FROM '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/login_login_roles.csv' DELIMITERS ',' CSV;
+COPY login_role_permissions TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/login_role_permissions.csv' DELIMITERS ',' CSV;
+COPY menu_login_roles TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/menu_login_roles.csv' DELIMITERS ',' CSV;
+COPY person TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/person.csv' DELIMITERS ',' NULL 'NULL' CSV;
+--COPY pelatih FROM '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/pelatih.csv' DELIMITERS ',' CSV;
+--COPY peserta TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/peserta.csv' DELIMITERS ',' NULL 'NULL' CSV;
+--COPY pelatihan TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/pelatihan.csv' DELIMITERS ',' NULL 'NULL' CSV;
+
+COPY mitra TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/mitra.csv' DELIMITERS ',' NULL 'NULL' CSV;
+COPY koordinator TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/koordinator.csv' DELIMITERS ',' CSV;
+COPY pelatihan TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/pelatihan.csv' DELIMITERS ',' NULL 'NULL' CSV;
+COPY pelatih TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/pelatih.csv' DELIMITERS ',' CSV;
+COPY peserta TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/peserta.csv' DELIMITERS ',' NULL 'NULL' CSV;
+COPY penerima_manfaat TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/penerima_manfaat.csv' DELIMITERS ',' NULL 'NULL' CSV;
+COPY penerima_manfaat_approved TO '/home/irfan/4-PROJECTS/miles/data/csv-postgresql-test/penerima_manfaat_approved.csv' DELIMITERS ',' NULL 'NULL' CSV;

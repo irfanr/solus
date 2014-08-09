@@ -560,7 +560,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.mascova.qeela.ui.ClientApplication</mainClass>
+                            <mainClass>com.mascova.solus.ui.ClientApplication</mainClass>
                             <classpathPrefix>dependency/</classpathPrefix>
                         </manifest>
                     </archive>

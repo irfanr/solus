@@ -1,0 +1,45 @@
+1,MITRA_READ,Mitra Read,0
+2,MITRA_CREATE,Mitra Create,0
+3,MITRA_UPDATE,Mitra Update,0
+4,MITRA_DELETE,Mitra Delete,0
+5,PELATIH_READ,Pelatih Read,0
+6,PELATIH_CREATE,Pelatih Create,0
+7,PELATIH_UPDATE,Pelatih Update,0
+8,PELATIH_DELETE,Pelatih Delete,0
+9,KOORDINATOR_READ,Koordinator Read,0
+10,KOORDINATOR_UPDATE,Koordinator Update,0
+11,PESERTA_READ,Peserta Read,0
+12,PESERTA_CREATE,Peserta Create,0
+13,PESERTA_UPDATE,Peserta Update,0
+14,PESERTA_DELETE,Peserta Delete,0
+15,PELATIHAN_READ,Pelatihan Read,0
+16,PELATIHAN_CREATE,Pelatihan Create,0
+17,PELATIHAN_UPDATE,Pelatihan Update,0
+18,PELATIHAN_DELETE,Pelatihan Delete,0
+19,APPROVE_DATA,Menyetujui Data ,0
+20,VIEW_ALL_DATA,Melihat Semua Data,0
+21,PERMISSION_READ,Melihat Izin,0
+22,PEKERJAAN_READ,Pekerjaan Read,0
+23,PEKERJAAN_CREATE,Pekerjaan Create,0
+24,PEKERJAAN_UPDATE,Pekerjaan Update,0
+25,PEKERJAAN_DELETE,Pekerjaan Delete,0
+26,PENDIDIKAN_READ,Pendidikan Read,0
+27,PENDIDIKAN_CREATE,Pendidikan Create,0
+28,PENDIDIKAN_UPDATE,Pendidikan Update,0
+29,PENDIDIKAN_DELETE,Pendidikan Delete,0
+30,HUBUNGAN_READ,Hubungan Read,0
+31,HUBUNGAN_CREATE,Hubungan Create,0
+32,HUBUNGAN_UPDATE,Hubungan Update,0
+33,HUBUNGAN_DELETE,Hubungan Delete,0
+34,POSISI_READ,Posisi Read,0
+35,POSISI_CREATE,Posisi Create,0
+36,POSISI_UPDATE,Posisi Update,0
+37,POSISI_DELETE,Posisi Delete,0
+38,LAPORAN_READ,Melihat Laporan,0
+39,MILES_DSBRD_READ,Melihat MILES Dashboard,0
+40,ADMIN_DSBRD_READ,Melihat Admin Dashboard,0
+41,SUPER_ADMIN,Super Admin,0
+42,PENUGASAN_KOORD_PELATIH,Penugasan Koordinasi Pelatih,0
+43,CHECK_DATA,Cek Data,0
+44,KEBUTUHAN_SERTIFIKAT_READ,Melihat Kebutuhan Sertifikat,0
+45,DATA_BENEFICIARIES_READ,Melihat Data Beneficiaries,0

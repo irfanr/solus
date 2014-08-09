@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Jul 26 09:04:03 WIT 2013
+https\://openswing.googlecode.com/svn/.error=Could not transfer artifact org.openswing\:poi\:pom\:2.0-RC2-20040102 from/to openswing (https\://openswing.googlecode.com/svn/)\: openswing.googlecode.com
+default-http\://repo1.maven.org/maven2/.lastUpdated=1374804243818
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1374804243843
+default-https\://openswing.googlecode.com/svn/.lastUpdated=1374804243832
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.openswing\:poi\:pom\:2.0-RC2-20040102 from/to central (http\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.openswing\:poi\:pom\:2.0-RC2-20040102 from/to maven2-repo (http\://repo1.maven.org/maven2)\: repo1.maven.org
+http\://download.eclipse.org/rt/eclipselink/maven.repo/.error=Could not transfer artifact org.openswing\:poi\:pom\:2.0-RC2-20040102 from/to eclipselink (http\://download.eclipse.org/rt/eclipselink/maven.repo/)\: download.eclipse.org
+default-http\://download.eclipse.org/rt/eclipselink/maven.repo/.lastUpdated=1374804243824

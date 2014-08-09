@@ -1,0 +1,41 @@
+2,f,Person,5,0,2,1
+21,f,CSV,8,0,21,1
+33,t,Master,11,0,33,1
+40,t,Security,12,0,40,1
+41,t,Transaction,13,0,41,1
+3,t,Search Person,1,0,3,2
+4,t,Create Person,2,0,4,2
+6,t,Search Login,1,0,6,5
+7,t,Create Login,2,0,7,5
+9,t,Province,1,0,9,8
+12,t,District,2,0,12,8
+15,t,Sub District,3,0,15,8
+18,t,Village,4,0,18,8
+10,t,Search Province,1,0,10,9
+11,t,Create Province,2,0,11,9
+13,t,Search District,1,0,13,12
+14,t,Create District,2,0,14,12
+37,t,Service,4,0,37,33
+16,t,Search Sub District,1,0,16,15
+17,t,Create Sub District,2,0,17,15
+19,t,Search Village,1,0,19,18
+20,t,Create Village,2,0,20,18
+22,f,Export to CSV,1,0,22,21
+23,f,Import from CSV,2,0,23,21
+25,t,Search Customer,1,0,25,24
+26,t,Create Customer,2,0,26,24
+28,t,Search Employee,1,0,28,27
+29,t,Create Employee,2,0,29,27
+31,t,Search Sales,1,0,31,30
+32,t,Create Sales,2,0,32,30
+27,t,Employee,1,0,27,33
+24,t,Customer,2,0,24,33
+34,t,Product,3,0,34,33
+8,t,Region,5,0,8,33
+35,t,Search Product,1,0,35,34
+36,t,Create Product,2,0,36,34
+38,t,Search Service,1,0,38,37
+39,t,Create Service,2,0,39,37
+5,t,Login,1,0,5,40
+30,t,Sales,1,0,30,41
+1,t,Root,1,0,1,

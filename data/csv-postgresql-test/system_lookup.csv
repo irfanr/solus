@@ -1,0 +1,38 @@
+1,M,Laki-laki,GNDR,0
+2,F,Perempuan,GNDR,0
+3,A,Aktif,STATUS,0
+4,N,Tidak Aktif,STATUS,0
+5,TOT,Training of Trainer,PLTTYPE,0
+6,PLTH,Pelatihan,PLTTYPE,0
+7,INSR,Input,PLTSTTS,0
+8,RJCT,Rejected,PLTSTTS,0
+9,CHCK,Checked,PLTSTTS,0
+10,CNCL,Canceled,PLTSTTS,0
+11,APPR,Approved,PLTSTTS,0
+12,PNS,PNS,OCCU,0
+13,KRY,Karyawan Swasta,OCCU,0
+14,WRS,"Wiraswasta (Pedagang, Penjahit)",OCCU,0
+15,BRHP,Buruh Pabrik,OCCU,0
+16,BRHL,"Buruh Lepas (Tukang Cuci, Ojek)",OCCU,0
+17,PTN,"Petani (Beras, Nelayan)",OCCU,0
+18,SMI,Suami,RELT,0
+19,IST,Istri,RELT,0
+20,ANK,Anak,RELT,0
+21,ORT,Orangtua,RELT,0
+22,PMBB,Paman/Bibi,RELT,0
+23,SD,SD,EDU,0
+24,SMP,SMP,EDU,0
+25,SMU,SMU,EDU,0
+26,D1,D1,EDU,0
+27,D2,D2,EDU,0
+28,D3,D3,EDU,0
+29,S1,S1,EDU,0
+30,S2,S2,EDU,0
+31,S3,S3,EDU,0
+32,M,Menikah,MRTSTS,0
+33,BM,Belum Menikah,MRTSTS,0
+34,CR,Cerai,MRTSTS,0
+35,KTP,KTP,IDTYPE,0
+36,KK,Kartu Keluarga,IDTYPE,0
+37,SLKM,SK LKM,IDTYPE,0
+38,SKEL,SK Desa/Kelurahan,IDTYPE,0

@@ -35,7 +35,7 @@
                 <goal>org.codehaus.mojo:exec-maven-plugin:1.2.1:exec</goal>
             </goals>
             <properties>
-                <exec.args>-classpath %classpath com.mascova.qeela.ui.ClientApplication</exec.args>
+                <exec.args>-classpath %classpath com.mascova.solus.ui.ClientApplication</exec.args>
                 <exec.executable>java</exec.executable>
                 <skipTests>true</skipTests>
             </properties>
